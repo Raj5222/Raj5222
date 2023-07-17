@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj5222" alt="raj5222" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/tweet_to_raj_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/tweet_to_raj_?logo=twitter&style=for-the-badge" alt="https://twitter.com/tweet_to_raj_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Tweet_To_Raj_" target="blank"><img src="https://img.shields.io/twitter/follow/Tweet_To_Raj_?logo=twitter&style=for-the-badge" alt="Tweet_To_Raj_" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud Base Object, Face And Pattern Detection Using AI**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/tweet_to_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tweet_to_raj_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-sathvara-a151b2146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-sathvara-a151b2146" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/raj_sathavara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raj_sathavara" height="30" width="40" /></a>
+<a href="https://twitter.com/Tweet_To_Raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tweet_To_Raj_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raj-sathvara-a151b2146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-sathvara-a151b2146" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raj_sathavara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_sathavara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
