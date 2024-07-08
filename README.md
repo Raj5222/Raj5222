@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Tweet_To_Raj_" target="blank"><img src="https://img.shields.io/twitter/follow/Tweet_To_Raj_?logo=twitter&style=for-the-badge" alt="Tweet_To_Raj_" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Base Object, Face And Pattern Detection System With AI**
-
-- 🌱 I’m currently learning **Python, Typescript, AWS.**
+- 🌱 I’m currently learning **MERN With AWS.**
 
 - 📫 How to reach me **raj.sathavara122@gmail.com**
 
