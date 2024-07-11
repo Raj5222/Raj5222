@@ -10,7 +10,7 @@
 
 
 
-- 💪🏽 Websites and Application
+- 💪🏽 Websites, Application and Software
 
 
 
