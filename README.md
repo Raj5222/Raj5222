@@ -17,7 +17,7 @@
 - 🙇🏻‍♂️ Everything Tech
 
 
-- 🕵️‍♀️  My Portfolio :- <a href="https://bit.ly/Raj-portfolio"> Click Here</a>
+- 🕵️‍♀️  <a href="https://bit.ly/Raj-portfolio"> My Portfolio 👈</a>
 
 
 ### 🔥 My Stats : 
