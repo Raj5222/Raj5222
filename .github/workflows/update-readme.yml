@@ -1,0 +1,44 @@
+name: Dynamic Portfolio & Skill Tree Auto-Sync
+
+on:
+  schedule:
+    # Auto-runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  sync-portfolio-and-tree:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Fetch Live Data & Generate Tree SVG + README
+        run: |
+          node scripts/generate-tree-svg.js
+          node scripts/generate-readme.js
+
+      - name: Commit and Push Changes If Updated
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md assets/skill-tree.svg
+          if git diff --staged --quiet; then
+            echo "✅ No updates detected. README & Skill Tree are already in sync."
+          else
+            git commit -m "chore(sync): auto-update dynamic skill tree and README [skip ci]"
+            git push
+            echo "🚀 Successfully synced and pushed new updates."
+          fi
